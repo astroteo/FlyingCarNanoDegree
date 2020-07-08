@@ -3,7 +3,7 @@
 ## Ubuntu
 
 1. download it from here: https://github.com/udacity/FCND-Simulator-Releases/releases
-2. run it as $ ./FCND-Sim_Linux_64-bi
+2. run it as $ ./FCND-Sim_Linux_64-bin
 
 
 ## Mac

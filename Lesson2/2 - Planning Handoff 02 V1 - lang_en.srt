@@ -1,0 +1,80 @@
+1
+00:00:00,000 --> 00:00:03,285
+Congratulations you've finished the lessons on motion planning,
+
+2
+00:00:03,285 --> 00:00:04,799
+and with the tools you've developed,
+
+3
+00:00:04,799 --> 00:00:07,154
+you're ready to complete your next project.
+
+4
+00:00:07,155 --> 00:00:09,870
+In this project, you'll again be flying in a simulator,
+
+5
+00:00:09,869 --> 00:00:12,894
+but this time in a more complicated 3D environment.
+
+6
+00:00:12,894 --> 00:00:14,794
+So Andy, how is this going to work?
+
+7
+00:00:14,794 --> 00:00:16,769
+Well Nick, basically, we're going to take
+
+8
+00:00:16,769 --> 00:00:19,829
+the methods and the algorithms that you've laid out in these lessons,
+
+9
+00:00:19,829 --> 00:00:23,654
+and going to combine them to build an amazing 3D motion planner.
+
+10
+00:00:23,655 --> 00:00:27,341
+So, Nick's laid out a lot of material in the past several lessons.
+
+11
+00:00:27,341 --> 00:00:29,580
+And now, it's up to you to design and build
+
+12
+00:00:29,579 --> 00:00:32,769
+a motion planner for your quadcopter. But don't worry.
+
+13
+00:00:32,770 --> 00:00:34,140
+I'm going to show you how to build up
+
+14
+00:00:34,140 --> 00:00:37,109
+that baseline implementation that you need for this project.
+
+15
+00:00:37,109 --> 00:00:39,000
+And then, if you're feeling inspired,
+
+16
+00:00:39,000 --> 00:00:40,890
+you can take it to the next level with some of
+
+17
+00:00:40,890 --> 00:00:43,054
+the more advanced techniques that Nick presented.
+
+18
+00:00:43,054 --> 00:00:44,395
+How does that sound to you Nick?
+
+19
+00:00:44,395 --> 00:00:46,650
+That sounds pretty good to me Andy.
+
+20
+00:00:46,649 --> 00:00:48,219
+I can't wait to see what you build.
+
